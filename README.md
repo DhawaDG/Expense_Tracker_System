@@ -41,7 +41,7 @@ A CLI-based expense tracking system to help users manage their expenses efficien
 
 ---
 
-*** Author Name *** Dhawa Dorje Ghising(DhawaDG)
+**Author Name** Dhawa Dorje Ghising(DhawaDG)
 
 
 ## License
