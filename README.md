@@ -40,9 +40,4 @@ A CLI-based expense tracking system to help users manage their expenses efficien
 - **GUI Development**: Create a graphical user interface for easier interaction and improved usability.
 
 ---
-
-**Author Name** Dhawa Dorje Ghising(DhawaDG)
-
-
-## License
-This project is licensed under the MIT License. See the file  LICENSE  for details.
+##  **📂[Python Fundamentals Projects List →](https://github.com/DhawaDG/Python_fundaments/blob/main/README.md)** 
